@@ -1,0 +1,47 @@
+﻿Построение начато 24.04.2020 22:44:32.
+     1>Проект "C:\Users\ACER\Documents\Visual Studio 2012\Projects\MST\MST\MST.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(32): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(126): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(138): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(149): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(287): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(315): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(379): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(401): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(403): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(414): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(427): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(436): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(452): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(463): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(486): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(488): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(499): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(501): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(516): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(520): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(521): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(526): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(528): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(539): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(548): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(550): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(566): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(568): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(579): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\graph.h(581): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\algorithms.h(38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\algorithms.h(44): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\algorithms.h(111): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer\documents\visual studio 2012\projects\mst\mst\algorithms.h(144): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ACER\Documents\Visual Studio 2012\Projects\MST\Debug\MST.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ACER\Documents\Visual Studio 2012\Projects\MST\Debug\MST.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ACER\Documents\Visual Studio 2012\Projects\MST\Debug\MST.lib" /MACHINE:X86 Debug\main.obj
+         MST.vcxproj -> C:\Users\ACER\Documents\Visual Studio 2012\Projects\MST\Debug\MST.exe
+     1>Построение проекта "C:\Users\ACER\Documents\Visual Studio 2012\Projects\MST\MST\MST.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.56
