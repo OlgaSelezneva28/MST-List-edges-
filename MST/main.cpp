@@ -7,7 +7,8 @@ using namespace std;
 
 int main()
 {
-	test4();
+	test8();
+
 
 	return 0;
 }
